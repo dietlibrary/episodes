@@ -1,0 +1,159 @@
+# EP#004 — Cabbage Soup Diet (1980s) — PART B
+
+---
+### FILE 1 — PROMPTS.txt
+```text
+close-up of a 1980s office fax machine printing a diet sheet on thermal paper, warm office lighting, vintage
+1985 open-plan office with workers at desks, coffee mugs, a diet flyer pinned next to photocopier, Kodak film look
+1950s American kitchen with large pot of cabbage soup simmering on stove, vintage appliances
+stack of photocopied papers titled Sacred Heart Diet, Military Cabbage Soup, TJ Miracle Soup, on a desk, 1980s
+National Enquirer tabloid cover from 1995 featuring cabbage soup diet recipe, newsstand style
+close-up overhead of steaming cabbage soup in rustic bowl, carrots celery onions, food photography
+1980s office break room wall covered with pinned diet recipes and notes, cork board
+British newspaper headline reading Most Ridiculous Diet featuring cabbage soup, 1990s tabloid style
+```
+
+---
+### FILE 2 — VOICEOVER.txt
+```text
+In 1985, office fax machines across America spat out the same miracle. Seven days, one pot of cabbage soup, ten pounds gone.
+
+No doctor's name on it. No book to buy. Proponents argued cabbage burned fat, and that hospitals, the army, even Russian peasants swore by it. None of them did.
+
+It was called the Sacred Heart Diet, the Military Cabbage Soup, the TJ Miracle Soup. It was pure faxlore, and it became the most photocopied diet of the decade.
+
+Welcome back to the Library. This is the Cabbage Soup Diet, peak popularity 1980s. It is cataloged as Family I: Fad Diets and One-Hit Wonders, a seven-day crash plan built around unlimited soup.
+
+The origins are unknown, but the idea dates back to the 1950s. It did not come from a lab. It came from mimeographs.
+
+It gained popularity as a piece of faxlore in the 1980s. Every copy linked the diet to a mainstream institution to sound legitimate — Sacred Heart Hospital, the US Military, Russian peasants. All of the institutions named have denied a link with the diet.
+
+
+The recipe stabilized in the 1990s when the National Enquirer printed it in 1995-1996. Cabbage, onions, peppers, celery, V8 juice, tomatoes. No author, no copyright, no accountability.
+
+The plan is brutally simple. For seven days, you eat as much cabbage soup as you want. Proponents argue the soup is so low in calories you cannot overeat.
+
+Day 1: soup plus raw fruit, no bananas. Day 2: soup plus vegetables, no potatoes. Day 3: soup plus fruit and vegetables. Day 4: soup, skim milk, and up to eight bananas. Day 5: soup, six tomatoes, and 565 grams of beef. Day 6: soup, unlimited vegetables and beef. Day 7: soup, brown rice, and sugar-free fruit juice.
+
+Studies suggest the diet provides far fewer than 1,000 calories per day during days 1 to 3 and around 1,000 to 1,200 during days 4 to 7. Proponents argue you lose 10 pounds in a week. That weight is mostly water, not fat.
+
+There is no scientific evidence to suggest that the cabbage soup diet is safe or effective for weight loss. No health authorities recommend it.
+
+A review of very low-calorie diets found only around 34 percent of weight loss in the first week comes from body fat. The rest comes from muscle tissue and water. Nutritional experts point out it is almost impossible to lose 10 pounds of fat in a week.
+
+Side effects are well documented: dehydration, headaches, dizziness, nausea, fatigue, gas, bloating, muscle loss, and nutrient deficiencies. Rapid weight loss can also increase the risk of developing gallstones. Studies suggest crash dieting can reduce metabolic rate, increasing weight regain after.
+
+The Cabbage Soup Diet did not need a spokesperson. It spread because it was free, photocopiable, and promised speed. By the late 1980s, it was in every office break room.
+
+In the UK, a study later ranked it as the most absurd diet trend. It survived into the internet era as Peel A Pound Soup and inspired every seven-day cleanse that followed, from Master Cleanse to modern detox teas.
+
+It stands as the anti-Atkins. While Atkins Diet told you to eat unlimited bacon, Cabbage Soup told you to eat unlimited watery vegetables. Both promised the same ten pounds.
+
+The Cabbage Soup Diet is the textbook member of Family I: Fad Diets and One-Hit Wonders. It has no parent in science, only in folklore. It is the direct ancestor of Banana Diet, Cookie Diet, and Master Cleanse. For a medically supervised low-calorie approach, see DASH Diet. For its opposite philosophy, see Atkins Diet.
+
+This video is part of The Diet Library — an educational documentary series. We are not medical professionals. This content is for informational purposes only. Always consult a qualified healthcare provider before making dietary changes.
+
+The Diet Library is documenting 500 diets — every single one. Subscribe if you want to understand not just what people eat, but why.
+```
+
+---
+### FILE 3 — CANVA_EDITS.txt
+```text
+CANVA_EDITS.TXT - EP004 MINI
+============================
+LIMBA: Romana
+TOOL: Canva Free
+Foloseste doar template-urile din folderul 00_TEMPLATES_DIET_LIBRARY
+
+====================
+DESIGN 1: EP004_HK_003_CAN - TITLE CARD
+====================
+1. Deschide Canva > Proiecte > dosar 00_TEMPLATES_DIET_LIBRARY
+2. Click pe SERIES_title-card-template > Foloseste in design nou
+3. Click pe EPISODE #000 > sterge > scrie EPISODE #004
+4. Click pe DIET NAME HERE > sterge > scrie CABBAGE SOUP DIET
+5. Click pe (YEAR HERE) > sterge > scrie (1980s)
+6. Sus dreapta > Distribuie > Descarca > PNG > Descarca
+7. Salveaza: EP004_HK_003_CAN_title-card
+
+====================
+DESIGN 2: EP004_LC_001_CAN - LIBRARY CARD
+====================
+1. Deschide SERIES_library-card-template > Foloseste
+2. Schimba DIET NAME HERE > CABBAGE SOUP DIET
+3. Schimba ORIGIN: XXXX > ORIGIN: 1950s / 1980s
+4. Schimba PEAK: XXXX > PEAK: 1980s
+5. Schimba TYPE: XXXX > TYPE: FAD
+6. Schimba RISK: XXXX > RISK: LOW NUTRIENT
+7. Schimba #000 > #004
+8. Descarca > MP4 Video
+9. Salveaza: EP004_LC_001_CAN_library-card
+
+====================
+DESIGN 3: EP004_HW_002_CAN - INFOGRAFIC 7 ZILE
+====================
+1. Creeaza design nou 1920x1080 > Fundal culoare #FAF7F2
+2. Text > Adauga titlu > scrie 7-DAY PLAN > font Playfair 64 culoare #3B2A1A > centreaza sus
+3. Elemente > cauta rectangle > fa 7 dreptunghiuri 240x120 > culoare #F5E6C8 > bordura #C4A56E 2px
+4. Aranjeaza orizontal pe 2 randuri
+5. In fiecare scrie:
+   ZIUA 1: SUPA + FRUCTE
+   ZIUA 2: SUPA + LEGUME
+   ZIUA 3: SUPA + FRUCTE/LEGUME
+   ZIUA 4: SUPA + LAPTE + BANANE
+   ZIUA 5: SUPA + ROSII + VITA
+   ZIUA 6: SUPA + LEGUME + VITA
+   ZIUA 7: SUPA + OREZ
+   Font Space Mono 20, culoare #3B2A1A
+6. Descarca PNG > EP004_HW_002_CAN_7days
+
+====================
+DESIGN 4: EP004_EV_001_CAN - STUDY CARD NO EVIDENCE
+====================
+1. Deschide SERIES_study-card-template > Foloseste
+2. Titlu: No Evidence Review
+3. Concluzie: No health authorities recommend this diet
+4. Footer: Medical News Today
+5. Badge: schimba in POSITION > culoare #8B6914
+6. Descarca PNG > EP004_EV_001_CAN_no-evidence
+
+====================
+DESIGN 5: EP004_EV_002_CAN - STUDY CARD 34%
+====================
+1. Deschide din nou SERIES_study-card-template
+2. Titlu: VLCD Composition Study
+3. Concluzie: Only 34% of first-week loss from fat
+4. Footer: Research Review
+5. Lasa badge PEER-REVIEWED verde
+6. Descarca PNG > EP004_EV_002_CAN_34percent
+
+====================
+DESIGN 6: EP004_DF_001_CAN - DIET FAMILY
+====================
+1. Deschide SERIES_diet-family-tree > Foloseste
+2. Gaseste caseta I FAD Fad Diets & One-Hit Wonders
+3. Click pe caseta > culoare > #8B1A1A
+4. Click pe text > culoare > #F5E6C8
+5. Jos la text cross-link > scrie: Related episode: #002 Atkins Diet
+6. Descarca PNG > EP004_DF_001_CAN_family
+
+====================
+DESIGN 7: EP004_DC_001_CAN - DISCLAIMER
+====================
+1. Deschide SERIES_disclaimer-cta > Foloseste
+2. NU MODIFICA NIMIC
+3. Descarca PNG > EP004_DC_001_CAN_disclaimer
+
+====================
+DESIGN 8: EP004_EC_001_CAN - END CARD
+====================
+1. Deschide SERIES_endcard-template > Foloseste
+2. Schimba #004 > #005
+3. Schimba DIET NAME HERE > BREATHARIANISM
+4. Descarca PNG > EP004_EC_001_CAN_endcard
+```
+
+---
+**GATA PART B EP004.**
+
+Scrie: **"Continu? EP#004 PART C"**

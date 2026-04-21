@@ -1,0 +1,209 @@
+# EP#004 — Cabbage Soup Diet (1980s) — PART C
+
+---
+### FILE 4 — CAPCUT_PRODUCTION.txt
+```text
+CAPCUT_PRODUCTION.TXT - EP004 MINI
+===================================
+LIMBA: Romana
+TOOL: CapCut Desktop gratuit
+TIMP ESTIMAT: 50 minute
+
+=== PASUL 0 - PREGATIRE FOLDERE ===
+1. Pe Desktop, fa folder: EP004_CabbageSoup
+2. In el fa 3 subfoldere: 01_Imagini, 02_Canva, 03_Audio
+3. Pune in 01_Imagini: cele 8 imagini din PROMPTS (P1-P8)
+4. Pune in 02_Canva: cele 8 fisiere PNG/MP4 din template-uri
+5. Pune in 03_Audio: voiceover.mp3 + SFX-urile
+
+=== PASUL 1 - SETARI PROIECT ===
+1. Deschide CapCut > New Project
+2. File > Project Settings > Resolution 1920x1080, Frame Rate 24 fps > OK
+3. File > Save As > EP004_CabbageSoup_MINI
+
+=== PASUL 2 - VOICEOVER (TRACK 4) ===
+1. Importa voiceover.mp3 > trage pe timeline pe track-ul 4 (audio jos)
+2. Asculta o data complet. Pune marker cu tasta M la fiecare pauza. Vei avea ~12 markere.
+
+=== PASUL 3 - MONTAJ IMAGINI ===
+REGULA: Te uiti la forma de unda, nu la ceas. Tai cand vocea respira.
+
+TRACK 1 (video jos) - IMAGINI:
+CLIP 1 - Fax (0:00-0:07): Trage EP004_HK_001_IMG > lungeste 7s > VIDEO > BASIC > SCALE keyframe 100% la inceput > 105% la final
+CLIP 2 - Birou 85 (0:07-0:18): EP004_HK_002_IMG > lungeste 11s > SCALE 105%?100% (pull out)
+CLIP 3 - Bucatarie 50s (0:40-0:58): EP004_OR_001_IMG > push 100?107%
+CLIP 4 - Fotocopii (0:58-1:15): EP004_OR_002_IMG > pull 107?100%
+CLIP 5 - Enquirer (1:15-1:30): EP004_OR_003_IMG > push lent
+CLIP 6 - Supa (1:30-1:50): EP004_HW_001_IMG > SCALE 100?108%
+CLIP 7 - Perete birou (3:05-3:25): EP004_CI_001_IMG
+CLIP 8 - Ziar UK (3:25-3:45): EP004_CI_002_IMG
+
+TRACK 2 (deasupra) - CANVA:
+CLIP 9 - Title Card (0:18-0:28): EP004_HK_003_CAN.png > aliniaza cu "It was called"
+CLIP 10 - Library Card (0:28-0:40): EP004_LC_001_CAN.mp4 > pune cand auzi "Welcome back"
+CLIP 11 - Infografic 7 zile (1:50-2:15): EP004_HW_002_CAN.png
+CLIP 12 - Study No Evidence (2:15-2:40): EP004_EV_001_CAN.png
+CLIP 13 - Study 34% (2:40-3:05): EP004_EV_002_CAN.png
+CLIP 14 - Diet Family (3:45-4:00): EP004_DF_001_CAN.png
+CLIP 15 - Disclaimer (4:00-4:15): EP004_DC_001_CAN.png
+CLIP 16 - End Card (4:15-4:30): EP004_EC_001_CAN.png
+
+=== PASUL 4 - COLOR GRADE + GRAIN ===
+1. Tine CTRL > selecteaza TOATE clipurile Track 1 > dreapta ADJUST > Temperature +10, Saturation -5, Contrast +5, Highlights -10, Shadows +5
+2. Click dreapta pe un clip > Copy adjustments > selecteaza Track 2 > Paste
+3. Effects > Video Effects > cauta Film Grain > Film Grain 2 > trage pe Track 3 peste tot > Opacity 20%
+
+=== PASUL 5 - AUDIO ===
+Track 5 - Muzica: importa background.mp3 > Volume -22 dB > Fade In 2s, Fade Out 3s
+Track 6 - SFX:
+- 0:00: typewriter.wav x3 la interval 0.2s > fiecare -15
+- 0:01: library-stamp.wav > -6, apoi la 0:01.2 orchestral-hit.wav > -7
+- 0:29: typewriter.wav x4 la 0.3s > fiecare -16 (pentru Library Card)
+- 4:28: book-close.wav > -10
+
+=== PASUL 6 - SUBTITRARI ===
+1. Sus Text > Auto Captions > English > Create
+2. Selecteaza toate > dreapta TEXT > Font Lora, Size 7, Bold ON, Color alb, Outline negru 4, Position jos 80px
+
+=== PASUL 7 - EXPORT ===
+1. Export > Name EP004_CabbageSoup_MINI_FINAL
+2. Resolution 1920x1080, 24fps, MP4, H.264, Quality High
+3. Export
+
+=== CHECKLIST ===
+[ ] Vocea e clara, muzica la -22 nu o acopera
+[ ] Fiecare imagine are miscare Ken Burns
+[ ] Infograficul 7 zile e lizibil
+[ ] Cardurile Evidence au badge corect
+[ ] End card arata #005 BREATHARIANISM
+```
+
+---
+### FILE 5 — AUDIO_GUIDE.txt
+```text
+AUDIO_GUIDE.TXT - EP004 MINI
+=============================
+LIMBA: Romana
+
+=== LISTA SUNETE ===
+
+1. TYPEWRITER (pentru fax)
+   Sursa: Freesound.org > cauta "typewriter single key" > filtreaza CC0
+   Descarca WAV
+   Timestamp: 0:00, 0:00.2, 0:00.4 pe Track 6
+   Volum: -15 dB fiecare
+
+2. LIBRARY STAMP + ORCHESTRAL HIT
+   Stamp: Freesound > "rubber stamp paper" CC0
+   Hit: Pixabay Music > "orchestral hit cinematic short"
+   Timestamp: Stamp 0:01.0, Hit 0:01.2
+   Volum: Stamp -6 dB, Hit -7 dB
+
+3. TYPEWRITER (pentru Library Card)
+   Pune 4 bucati la 0:29.0, 0:29.3, 0:29.6, 0:29.9
+   Volum: -16 dB
+
+4. BOOK CLOSE
+   Sursa: Freesound > "book close soft" CC0
+   Timestamp: 4:28 (final)
+   Volum: -10 dB
+
+5. MUZICA FUNDAL
+   Sursa: Pixabay Music > cauta "cinematic documentary piano cello slow"
+   Alege piesa fara tobe, ~4 minute
+   Track 5
+   Volum: -22 dB
+   Fade In 2 secunde, Fade Out 3 secunde
+
+=== ORGANIZARE FISIERE ===
+Folder EP004_CabbageSoup\03_Audio\
+- voiceover.mp3
+- typewriter.wav
+- stamp.wav
+- hit.mp3
+- bookclose.wav
+- background.mp3
+
+=== ATRIBUIRE YOUTUBE ===
+Pune la finalul descrierii:
+Music: Pixabay Music
+SFX: Freesound.org (CC0 Public Domain)
+
+=== REGULA DE AUR ===
+Daca auzi muzica in timp ce citesti disclaimer-ul, e prea tare. Scade la -24 dB.
+```
+
+---
+### FILE 6 — SHORTS_PRODUCTION.txt
+```text
+SHORTS_PRODUCTION.TXT - EP004
+==============================
+LIMBA: Romana (VO si metadata in engleza)
+
+=== SETARI GENERALE ===
+1. CapCut New Project > 1080x1920 > 30 fps
+2. Importa voiceover Short pe Track 4
+3. Subtitrari: Auto Captions English > Font Bold, Size 12, alb cu contur negru
+
+=== SHORT 1 - "Fax Machine Diet" (28 sec) ===
+TIP: Story
+
+VO SCRIPT (EN):
+"In 1985 the hottest diet didn't come from a doctor. It came from your office fax machine. Seven days of cabbage soup. Ten pounds gone. No science. Just paper."
+
+VIZUAL:
+0-5s: EP004_HK_001_IMG > Scale 300% > centreaza fax
+5-14s: Text mare FAX > font Playfair 150 > animatie Typewriter
+14-22s: EP004_HK_002_IMG > crop 9:16 > pan lent
+22-28s: EP004_HW_001_IMG (supa) > zoom in
+
+METADATA:
+Title: The 1980s Diet That Spread by Fax
+Description: Cabbage Soup Diet promised 10 lbs in 7 days. Full EP004. #cabbagesoup #faddiet #1980s
+Tags: cabbage soup diet, faxlore, 1980s diet
+
+=== SHORT 2 - "Day 4 Bananas" (22 sec) ===
+TIP: Fact
+
+VO SCRIPT (EN):
+"Day 4 of Cabbage Soup Diet: eight bananas and skim milk. That's it. Plus unlimited cabbage soup. For the whole day."
+
+VIZUAL:
+0-6s: EP004_HW_002_CAN > zoom pe ZIUA 4
+6-16s: Imagine banane > Text overlay "8 BANANAS"
+16-22s: Text "SKIM MILK ONLY" > font rosu
+
+METADATA:
+Title: Cabbage Soup Day 4 = 8 Bananas
+Description: The weirdest day of the 7-day plan. EP004 full documentary. #cabbagesoup #diet
+
+=== SHORT 3 - "Bacon vs Water" (30 sec) ===
+TIP: Comparison
+
+VO SCRIPT (EN):
+"Atkins 1972: eat unlimited bacon. Cabbage Soup 1980s: eat unlimited watery vegetables. Both promised ten pounds in a week. Both were wrong."
+
+VIZUAL:
+0-10s: Stanga EP002_HW_001_IMG (bacon) / Dreapta EP004_HW_001_IMG (supa) split
+10-20s: Text "10 LBS?" mare centru
+20-30s: EP004_DF_001_CAN > zoom pe caseta I FAD
+
+METADATA:
+Title: Bacon vs Cabbage Soup: Same Promise
+Description: From #002 Atkins to #004 Cabbage Soup. Watch both episodes. #atkins #cabbagesoup #lowcarb
+
+=== CALENDAR POSTARE ===
+Daca EP004 apare SAMBATA:
+Duminica 13:00 UTC: SHORT 1
+Marti 13:00 UTC: SHORT 2
+Joi 13:00 UTC: SHORT 3
+
+=== CHECKLIST SHORTS ===
+[ ] Format vertical 9:16
+[ ] Subtitrari max 4 cuvinte per linie
+[ ] Hook in prima secunda
+[ ] Export nume: EP004_SH1_Fax.mp4
+```
+
+---
+? EP#004 — Cabbage Soup Diet (1980s) — COMPLETE

@@ -1,0 +1,230 @@
+# EP#004 — Cabbage Soup Diet (1980s) — PART A
+
+---
+## SCRIPT
+
+### HOOK — The Fax That Promised Ten Pounds
+
+```
+[VISUAL: Close-up pe un fax din anii 80 care iese din aparat, hârtie termic?.]
+[AUDIO: SERIES_typewriter-key.wav x3, apoi SERIES_theme-sting.wav]
+[ASSET: `EP004_HK_001_IMG`]
+```
+> "In **1985**, office fax machines across America spat out the same miracle. Seven days, one pot of cabbage soup, ten pounds gone."
+
+```
+[VISUAL: Birou open-space anii 80, oameni cu c?ni de cafea, un afi? lipit la copiator.]
+[ASSET: `EP004_HK_002_IMG`]
+```
+> "No doctor's name on it. No book to buy. Proponents argued cabbage burned fat, and that hospitals, the army, even Russian peasants swore by it. None of them did."
+
+```
+[VISUAL: Title card]
+[ASSET: `EP004_HK_003_CAN` din SERIES_title-card-template]
+```
+> "It was called the Sacred Heart Diet, the Military Cabbage Soup, the TJ Miracle Soup. It was pure faxlore, and it became the most photocopied diet of the decade."
+
+### LIBRARY CARD
+
+```
+[VISUAL: Card animat de bibliotec?.]
+[AUDIO: SERIES_typewriter-key.wav]
+[ASSET: `EP004_LC_001_CAN` din SERIES_library-card-template]
+```
+> "Welcome back to the Library. This is the Cabbage Soup Diet, peak popularity **1980s**. It is cataloged as Family I: Fad Diets & One-Hit Wonders, a seven-day crash plan built around unlimited soup."
+
+### ORIGIN STORY
+
+```
+[VISUAL: Buc?t?rie american? 1950s, oal? mare cu varz?.]
+[ASSET: `EP004_OR_001_IMG`]
+```
+> "The origins are unknown, but the idea dates back to the 1950s. It did not come from a lab. It came from mimeographs."
+
+```
+[VISUAL: Teanc de foi fotocopiate, titluri diferite.]
+[ASSET: `EP004_OR_002_IMG`]
+```
+> "It gained popularity as a piece of faxlore in the 1980s. Every copy linked the diet to a mainstream institution to sound legitimate — Sacred Heart Hospital, the US Military, Russian peasants. All of the institutions named have denied a link with the diet."
+
+```
+[VISUAL: Copert? National Enquirer 1995.]
+[ASSET: `EP004_OR_003_IMG`]
+```
+> "The recipe stabilized in the 1990s when the National Enquirer printed it in 1995-1996. Cabbage, onions, peppers, celery, V8 juice, tomatoes. No author, no copyright, no accountability."
+
+### HOW IT WORKS
+
+```
+[VISUAL: Oal? aburind? cu sup? de varz?, lingur? de lemn.]
+[ASSET: `EP004_HW_001_IMG`]
+```
+> "The plan is brutally simple. For seven days, you eat as much cabbage soup as you want. Proponents argue the soup is so low in calories you cannot overeat."
+
+```
+[VISUAL: Infografic 7 zile Canva.]
+[ASSET: `EP004_HW_002_CAN`]
+```
+> "Day 1: soup plus raw fruit, no bananas. Day 2: soup plus vegetables, no potatoes. Day 3: soup plus fruit and vegetables. Day 4: soup, skim milk, and up to eight bananas. Day 5: soup, six tomatoes, and 565 grams of beef. Day 6: soup, unlimited vegetables and beef. Day 7: soup, brown rice, and sugar-free fruit juice."
+
+> "Studies suggest the diet provides far fewer than 1,000 calories per day during days 1 to 3 and around 1,000 to 1,200 during days 4 to 7. Proponents argue you lose 10 pounds in a week. That weight is mostly water, not fat."
+
+### THE EVIDENCE
+
+```
+[VISUAL: Card studiu gri-alb?strui.]
+[ASSET: `EP004_EV_001_CAN` din SERIES_study-card-template]
+```
+> "There is no scientific evidence to suggest that the cabbage soup diet is safe or effective for weight loss. No health authorities recommend it."
+
+```
+[VISUAL: Al doilea card studiu.]
+[ASSET: `EP004_EV_002_CAN`]
+```
+> "A review of very low-calorie diets found only around 34% of weight loss in the first week comes from body fat. The rest comes from muscle tissue and water. Nutritional experts point out it is almost impossible to lose 10 pounds of fat in a week."
+
+> "Side effects are well documented: dehydration, headaches, dizziness, nausea, fatigue, gas, bloating, muscle loss, and nutrient deficiencies. Rapid weight loss can also increase the risk of developing gallstones. Studies suggest crash dieting can reduce metabolic rate, increasing weight regain after."
+
+### CULTURAL IMPACT
+
+```
+[VISUAL: Birou anii 80, perete cu re?ete prinse cu pioneze.]
+[ASSET: `EP004_CI_001_IMG`]
+```
+> "The Cabbage Soup Diet did not need a spokesperson. It spread because it was free, photocopiable, and promised speed. By the late 1980s, it was in every office break room."
+
+```
+[VISUAL: Titlu ziar UK "Most Ridiculous Diet".]
+[ASSET: `EP004_CI_002_IMG`]
+```
+> "In the UK, a study later ranked it as the most absurd diet trend. It survived into the internet era as 'Peel A Pound Soup' and inspired every seven-day cleanse that followed, from #029 Master Cleanse to modern detox teas."
+
+> "It stands as the anti-Atkins. While #002 Atkins Diet told you to eat unlimited bacon, Cabbage Soup told you to eat unlimited watery vegetables. Both promised the same ten pounds."
+
+### DIET FAMILY
+
+```
+[VISUAL: Arborele familiei, caseta I FAD ro?ie.]
+[ASSET: `EP004_DF_001_CAN` din SERIES_diet-family-tree]
+```
+> "The Cabbage Soup Diet is the textbook member of Family I: Fad Diets & One-Hit Wonders. It has no parent in science, only in folklore. It is the direct ancestor of #023 Banana Diet, #033 Cookie Diet, and #029 Master Cleanse. For a medically supervised low-calorie approach, see #019 DASH Diet. For its opposite philosophy, see #002 Atkins Diet."
+
+### DISCLAIMER + CTA
+
+```
+[VISUAL: Ecran disclaimer]
+[ASSET: `EP004_DC_001_CAN` din SERIES_disclaimer-cta]
+```
+> "This video is part of The Diet Library — an educational documentary series. We are not medical professionals. This content is for informational purposes only. Always consult a qualified healthcare provider before making dietary changes."
+
+> "The Diet Library is documenting 500 diets — every single one. Subscribe if you want to understand not just what people eat, but why."
+
+```
+[VISUAL: End card NEXT #005]
+[ASSET: `EP004_EC_001_CAN` din SERIES_endcard-template]
+[AUDIO: SERIES_book-close.wav]
+```
+
+---
+## VISUAL PRODUCTION BIBLE
+
+| Timecode | Asset Code | Tip | Tool | Prompt Ref | Instruc?iuni Creator (RO) |
+| :--- | :--- | :--- |
+| 0:00-0:07 | `EP004_HK_001_IMG` | Imagine | Meta AI | P1 | Fax anii 80 care printeaz?. Track 1. Scale 100%?105% |
+| 0:07-0:18 | `EP004_HK_002_IMG` | Imagine | Meta AI | P2 | Birou open-space 1985, oameni, afi? diet? la copiator |
+| 0:18-0:28 | `EP004_HK_003_CAN` | Canva | Template | - | Deschide SERIES_title-card-template. Schimb? #002?#004, ATKINS?CABBAGE SOUP DIET, (1972)?(1980s) |
+| 0:28-0:40 | `EP004_LC_001_CAN` | Canva | Template | - | Deschide SERIES_library-card-template. Schimb?: DIET NAME?CABBAGE SOUP DIET, ORIGIN?1950s/1980s, PEAK?1980s, TYPE?FAD, RISK?LOW NUTRIENT, #002?#004 |
+| 0:40-0:58 | `EP004_OR_001_IMG` | Imagine | Meta AI | P3 | Buc?t?rie 1950s, oal? mare varz? pe aragaz |
+| 0:58-1:15 | `EP004_OR_002_IMG` | Imagine | Meta AI | P4 | Teanc foi fotocopiate "Sacred Heart Diet", "Military Diet" |
+| 1:15-1:30 | `EP004_OR_003_IMG` | Imagine | Meta AI | P5 | Copert? National Enquirer 1995 cu sup? |
+| 1:30-1:50 | `EP004_HW_001_IMG` | Imagine | Meta AI | P6 | Close-up sup? varz? aburind?, bol rustic |
+| 1:50-2:15 | `EP004_HW_002_CAN` | Canva | Nou | - | Creeaz? infografic 7 zile. Fundal #FAF7F2, text Space Mono |
+| 2:15-2:40 | `EP004_EV_001_CAN` | Canva | Template | - | SERIES_study-card-template. Titlu: No Evidence Review. Concluzie: No health authorities recommend. Badge: POSITION |
+| 2:40-3:05 | `EP004_EV_002_CAN` | Canva | Template | - | Al doilea card. Titlu: VLCD Composition Study. Concluzie: Only 34% loss from fat. |
+| 3:05-3:25 | `EP004_CI_001_IMG` | Imagine | Meta AI | P7 | Perete birou 80s cu re?ete prinse cu pioneze |
+| 3:25-3:45 | `EP004_CI_002_IMG` | Imagine | Meta AI | P8 | Ziar UK "Most Ridiculous Diet" headline |
+| 3:45-4:00 | `EP004_DF_001_CAN` | Canva | Template | - | Deschide SERIES_diet-family-tree. Coloreaz? I FAD ro?u. Text jos: Related: #002 Atkins Diet |
+| 4:00-4:15 | `EP004_DC_001_CAN` | Canva | Template | - | Deschide SERIES_disclaimer-cta. Nu modifica. Export PNG |
+| 4:15-4:30 | `EP004_EC_001_CAN` | Canva | Template | - | Deschide SERIES_endcard-template. Schimb? #003?#005, GLADIATOR?BREATHARIANISM |
+
+---
+## METADATA
+
+### Titluri
+1. **The Cabbage Soup Diet (1980s) — The Fax That Promised 10 Pounds**
+2. **Cabbage Soup Diet: History of America's Most Photocopied Fad**
+3. **Why the 7-Day Cabbage Soup Diet Never Worked**
+
+### Descriere YouTube
+```
+In the 1980s, no doctor sold it. No company owned it. The Cabbage Soup Diet spread through office fax machines promising 10 pounds lost in 7 days.
+
+Episode #004 of The Diet Library traces its roots from 1950s mimeographs to Sacred Heart hoaxes, and why science says most weight lost was water.
+
+DISCLAIMER: Educational only. Not medical advice.
+
+#cabbagesoupdiet #faddiet #1980s #diet #history #theDietLibrary
+
+Previous: #003 Gladiator Diet | Next: #005 Breatharianism
+```
+
+### Tags
+cabbage soup diet, sacred heart diet, military diet, fad diet history, 1980s diet, crash diet, 7 day diet, faxlore, diet history, weight loss myths
+
+### Chapters
+```
+00:00 The Fax That Promised Ten Pounds
+00:28 Library Card
+00:40 Origins in the 1950s
+01:30 How It Works: 7 Days
+02:15 What Science Says
+03:05 Cultural Impact
+03:45 Diet Family
+04:00 Disclaimer
+```
+
+---
+## SOURCES
+
+**Primary Sources**
+- Wikipedia contributors. "Cabbage soup diet." Wikipedia
+- Medical News Today. "Cabbage soup diet: Weight loss, benefits, and risks" (2024)
+
+**Key Facts**
+- Origins date to 1950s, popularized as faxlore in 1980s
+- Institutions named have denied link
+- Typical claim: lose 10 pounds in a week
+- National Enquirer popularized recipe 1995-1996
+- Provides <1,000 cal days 1-3, 1,000-1,200 days 4-7
+- No scientific evidence for safety/effectiveness
+- Only ~34% of first-week loss from fat
+- Side effects include dehydration, headaches, dizziness
+- Increases gallstone risk
+- Ranked most absurd diet in UK study
+
+---
+## PRODUCTION CHECKLIST
+
+```
+? 1. Genereaz? 8 imagini Meta AI (P1-P8) — stil sepia consistent EP002
+? 2. Creeaz? 6 design-uri Canva DIN TEMPLATE (HK, LC, EV1, EV2, DF, DC, EC)
+? 3. Creeaz? 1 design nou: HW_002 infografic 7 zile
+? 4. CapCut: import? VO pe Track 4, monteaz? dup? pauze voce
+? 5. Aplic? Color Grade standard + Film Grain 20%
+? 6. Subtitr?ri Auto EN, font Lora Bold 7
+? 7. Export: EP004_CabbageSoup_MINI_FINAL.mp4
+```
+
+---
+## SHORTS IDEAS
+
+| # | Tip | Hook VO (EN) | Vizual |
+| :--- | :--- |
+| SH1 | Story | "In 1985 the hottest diet didn't come from a doctor. It came from your office fax machine." | `EP004_HK_001_IMG` |
+| SH2 | Fact | "Day 4 of Cabbage Soup: 8 bananas and skim milk. That's the entire menu." | `EP004_HW_002_CAN` |
+| SH3 | Comparison | "Atkins said eat bacon. Cabbage Soup said eat water. Both promised 10 pounds." | Split EP002/EP004 |
+
+---
+**GATA PART A EP004.**
+
+Scrie: **"Continu? EP#004 PART B"**
